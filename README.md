@@ -1,5 +1,5 @@
 # 105-Unit3
-This is a repsotitory containing instructional materials for Professor Gotzler's fall 2022 sections of ENGL-105 at the Univeristy of North Carolina at Chapel Hill
+## This is a repsotitory containing instructional materials for Professor Gotzler's fall 2022 sections of ENGL-105 at the Univeristy of North Carolina at Chapel Hill
 
 The repository contains 3 Python notebooks covering basic topics and coding with Python3 and beginner moduels on using the Pandas package for data analysis
 These materials have been adapted from the lessons created by the staff at the Research Hub of [UNC's Davis Library](https://unc-libraries-data.github.io/Python/Setup.html) 
