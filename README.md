@@ -31,8 +31,8 @@ This repository was created with the hopes further research could be done with t
 ##### README.md
 
 
-
-### The following are images containing graphical data about the relationship between the number of poor mental health days and premature death rates in New York from 2014 to 2015
+### Comparitive Data 
+#### The following are images containing graphical data about the relationship between the number of poor mental health days and premature death rates in New York from 2014 to 2015
 
 
 ![tqNxC-poor-mental-health-days-in-ny-from-1-1-2014-1-1-2015](https://user-images.githubusercontent.com/117797099/202959853-6a447366-9966-4089-8327-6c73c26abf83.png)
