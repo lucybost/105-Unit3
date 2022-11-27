@@ -1,4 +1,4 @@
-# README.Python_Notebook
-### This file contains a Python notebook written in Jupyter Lab with instructions on how to access data from the files. 
-#### This notebook gives in depth instructions on how to obtain the new .csv subset from the original CountyHealthData_2014-2015.csv dataset.
+#README.Python_Notebook
+###This file contains a Python notebook written in Jupyter Lab with instructions on how to access data from the files. 
+####This notebook gives in depth instructions on how to obtain the new .csv subset from the original CountyHealthData_2014-2015.csv dataset.
 These instructions contain the coding needed to operate this data, which ultimatley lead to the creation of the NY_subset.csv file. 
