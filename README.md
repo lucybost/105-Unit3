@@ -20,20 +20,19 @@ This data and code are meant for individuals trying to study the impact of menta
 This repository was created with the hopes further research could be done with the use of this data from such a large and populated state. This information may help medical professionals and researchers determine the correlation between bad mental health and ealry death rates that could be used for cures and the evolvement of therapy techniques. 
 
 ## Organization 
-README.md
-Python_Lessons
-- README.md
-- Feeder3.1.ipynb
 Data
-- README.md
-- NY_subset.csv
-- CountyHealthData_2014-2015.csv
-- Visualization 1.jpg
-- Visualization 2.jpg
+- CountyHealthData_2014-2105.csv
+- poor mental health (image 1) 
+- premature death (image 2) 
+Python_Lessons
+- Feeder3.1.ipynb
+- 
+NY_subset.csv
+README.md
 
-Purpose
-provenance
-Potential 
+
+
+
 
 
 ### The following are images containing graphical data about the relationship between the number of poor mental health days and premature death rates in New York from 2014 to 2015
