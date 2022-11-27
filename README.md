@@ -1,13 +1,13 @@
 
 # Effect of mental Health on Premature Death Rates 
-#### This is a repsotitory containing data surrounding the correlation of poor mental health to early death. It was created for Professor Gotzler's fall 2022 sections of ENGL-105 at the Univeristy of North Carolina at Chapel Hill.
+### This is a repsotitory containing data surrounding the correlation of poor mental health to early death. It was created for Professor Gotzler's fall 2022 sections of ENGL-105 at the Univeristy of North Carolina at Chapel Hill.
 
 The repository contains 1 Python notebook covering basic instructions on how to narrow down our data set into only containing the information we want to further study. 
 These materials will be studied to develope a relationship between the two areas and determine ways in which to stop this correlation. 
 
 This data came from the World Health Organization and was provided by Professor Gotzler. The coding came from Jupyter Lab notebooks. 
 
-## How to download Dataset
+## How to download the dataset 
 1. Download and install Anaconda 
 2. Find JupyterLab within the Anaconda Navigator.
 3. Copy the files in the Data folder into your own directory and open them in JupyterLab.
