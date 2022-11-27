@@ -20,19 +20,15 @@ This data and code are meant for individuals trying to study the impact of menta
 This repository was created with the hopes further research could be done with the use of this data from such a large and populated state. This information may help medical professionals and researchers determine the correlation between bad mental health and ealry death rates that could be used for cures and the evolvement of therapy techniques. 
 
 ## Organization 
-#### Data
+##### Data
 - CountyHealthData_2014-2105.csv
 - poor mental health (image 1) 
 - premature death (image 2) 
-
-#### Python_Notebook
+##### Python_Notebook
 - Feeder3.1.ipynb
 - Python_notebook-README.ipynb
-#### NY_subset.csv
-#### README.md
-
-
-
+##### NY_subset.csv
+##### README.md
 
 
 
