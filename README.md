@@ -7,16 +7,16 @@ These materials will be studied to develope a relationship between the two areas
 
 This data came from the World Health Organization and was provided by Professor Gotzler. The coding came from Jupyter Lab notebooks. 
 
-### How to download Dataset
+## How to download Dataset
 1. Download and install Anaconda 
 2. Find JupyterLab within the Anaconda Navigator.
 3. Copy the files in the Data folder into your own directory and open them in JupyterLab.
 
-### Value to Reading 
+## Value to Reading 
 This data and code are meant for individuals trying to study the impact of mental health on early death rates. This infomration could be studied in reagrds to suicide or overall deterring physical health caused by mental states. 
 - The code has narrowed this subject matter down to individuals only in the state of New York. 
 
-### The Future
+## The Future
 This repository was created with the hopes further research could be done with the use of this data from such a large and populated state. This information may help medical professionals and researchers determine the correlation between bad mental health and ealry death rates that could be used for cures and the evolvement of therapy techniques. 
 
 ## Organization 
@@ -31,7 +31,7 @@ This repository was created with the hopes further research could be done with t
 ##### README.md
 
 
-### Comparitive Data 
+## Comparitive Data 
 The following are images containing graphical data about the relationship between the number of poor mental health days and premature death rates in New York from 2014 to 2015
 
 
