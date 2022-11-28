@@ -1,5 +1,5 @@
 
-# Effect of mental Health on Premature Death Rates 
+# Effect of Mental Health on Premature Death Rates 
 ### This is a repsotitory containing data surrounding the correlation of poor mental health to early death. It was created for Professor Gotzler's fall 2022 sections of ENGL-105 at the Univeristy of North Carolina at Chapel Hill.
 
 The repository contains 1 Python notebook covering basic instructions on how to narrow down our data set into only containing the information we want to further study. 
